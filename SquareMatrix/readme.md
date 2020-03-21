@@ -1,6 +1,4 @@
-# MatrixOperations
-
-## Square matrix multiplication
+#  Square matrix multiplication
 
 * To compile
 ```
