@@ -1,4 +1,5 @@
 #  Square matrix multiplication
+### Multiplies matrices using Strassen algorithm.
 
 * To compile
 ```
